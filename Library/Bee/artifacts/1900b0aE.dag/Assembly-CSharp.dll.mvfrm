@@ -13,20 +13,6 @@ Renderer2DData
 CompositeShadowCaster2D
 ShadowCaster2D
 ShadowCasterGroup2D
-ActionBasedControllerEditor
-UnityEngine
-XR
-Interaction
-Toolkit
-XRBaseControllerEditor
-XRControllerEditor
-XRControllerRecorderEditor
-XRControllerRecordingEditor
-XRRigEditor
-PackageManagerEditorHelper
-Utilities
-InputHelpers
-
 AssetModificationProcessor
 
 Sysroot
